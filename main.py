@@ -1,3 +1,5 @@
+python3 -m poetry install
+
 import requests, random, os, json, re
 from user_agent import generate_user_agent
 import pyfiglet
